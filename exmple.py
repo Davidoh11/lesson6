@@ -4,4 +4,4 @@ def abc():
 a=c
 
 def abc():
-a=a 
+a=c 
