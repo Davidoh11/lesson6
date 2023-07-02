@@ -1,7 +1,7 @@
 a = 6
 c = b+b+a
 def abc():
-a=c
+a=a
 
 def abc():
-a=c 
+a=a 
